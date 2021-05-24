@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Error displayed]]>
+    </line>
+    <line>
+      <![CDATA[Error displayed]]>
+    </line>
+    <line>
+      <![CDATA[Error displayed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51980" started-at="2021-04-01T06:53:30 IST" finished-at="2021-04-01T06:54:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51980" started-at="2021-04-01T06:53:30 IST" finished-at="2021-04-01T06:54:22 IST">
+      <class name="com.hrm.qa.testcases.PIM_PageTest">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="setUP" is-config="true" duration-ms="17991" started-at="2021-04-01T06:53:30 IST" finished-at="2021-04-01T06:53:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyAddEmployeeTab()[pri:1, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="verifyAddEmployeeTab" duration-ms="1114" started-at="2021-04-01T06:53:48 IST" finished-at="2021-04-01T06:53:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeeTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="tearDown" is-config="true" duration-ms="1327" started-at="2021-04-01T06:53:49 IST" finished-at="2021-04-01T06:53:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="setUP" is-config="true" duration-ms="13124" started-at="2021-04-01T06:53:50 IST" finished-at="2021-04-01T06:54:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyAddEmployeebutton()[pri:2, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="verifyAddEmployeebutton" duration-ms="1353" started-at="2021-04-01T06:54:03 IST" finished-at="2021-04-01T06:54:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddEmployeebutton -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="tearDown" is-config="true" duration-ms="1257" started-at="2021-04-01T06:54:05 IST" finished-at="2021-04-01T06:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="setUP" is-config="true" duration-ms="13394" started-at="2021-04-01T06:54:06 IST" finished-at="2021-04-01T06:54:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="verifyValidations()[pri:3, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="verifyValidations" duration-ms="1435" started-at="2021-04-01T06:54:19 IST" finished-at="2021-04-01T06:54:21 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Error displayed]]>
+            </line>
+            <line>
+              <![CDATA[Error displayed]]>
+            </line>
+            <line>
+              <![CDATA[Error displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyValidations -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hrm.qa.testcases.PIM_PageTest@35d176f7]" name="tearDown" is-config="true" duration-ms="876" started-at="2021-04-01T06:54:21 IST" finished-at="2021-04-01T06:54:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hrm.qa.testcases.PIM_PageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
